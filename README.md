@@ -6,7 +6,7 @@
 
 ## Features
 
-- check climate of your city
+- check climate of any area
 
 - added alert popup for Errors
 
