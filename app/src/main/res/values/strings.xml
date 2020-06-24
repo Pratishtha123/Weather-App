@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="androdocs">AndroDocs</string>
+    <string name="created_by">Created By</string>
+    <string name="humidity">Humidity</string>
+    <string name="time">06:40 AM</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="max_temp_05_05_pm">Max Temp: 05:05 PM</string>
+    <string name="min_temp_05_05_am">Min Temp: 05:05 AM</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_29_c">29°C</string>
+    <string name="_20_april_2012_20_08_pm">20 April 2012, 20:08 PM</string>
+    <string name="dhaka_bd">DHAKA, BD</string>
 </resources>
