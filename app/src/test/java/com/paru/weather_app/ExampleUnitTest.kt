@@ -1,4 +1,4 @@
-package com.paru.weatherapp
+package com.paru.weather_app
 
 import org.junit.Test
 
