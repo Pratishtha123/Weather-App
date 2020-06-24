@@ -29,7 +29,7 @@
                 android:layout_gravity="center"
                 android:text="@string/clear_sky"/>
             <TextView android:id="@+id/temp" android:layout_width="wrap_content"
-                android:layout_height="wrap_content" android:textSize="90sp"
+                android:layout_height="wrap_content" android:textSize="70sp"
                 android:fontFamily="sans-serif-thin" android:layout_gravity="center"
                 android:text="@string/_29_c"/>
 
