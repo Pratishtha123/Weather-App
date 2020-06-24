@@ -29,7 +29,7 @@ class LocationActivity : AppCompatActivity() {
             }
             else
             {
-                Toast.makeText(this@LocationActivity,"Enter Location",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this@LocationActivity,"Please enter Location!",Toast.LENGTH_SHORT).show()
             }
 
         }
