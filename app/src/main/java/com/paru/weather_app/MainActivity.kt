@@ -14,12 +14,14 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val CITY: String = "delhi,in"
+    var CITY: String = "delhi,in"
     val API: String = "89da72d16e09feaf9b5ef4d51fcaa904"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        CITY=intent.getStringExtra("location")
 
         weatherTask().execute()
 
